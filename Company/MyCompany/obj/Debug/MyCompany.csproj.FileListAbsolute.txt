@@ -1,0 +1,16 @@
+C:\projekt\DemoOOP\MyCompany\bin\Debug\MyCompany.exe.config
+C:\projekt\DemoOOP\MyCompany\bin\Debug\MyCompany.exe
+C:\projekt\DemoOOP\MyCompany\bin\Debug\MyCompany.pdb
+C:\projekt\DemoOOP\MyCompany\obj\Debug\MyCompany.csproj.AssemblyReference.cache
+C:\projekt\DemoOOP\MyCompany\obj\Debug\MyCompany.csproj.SuggestedBindingRedirects.cache
+C:\projekt\DemoOOP\MyCompany\obj\Debug\MyCompany.csproj.CoreCompileInputs.cache
+C:\projekt\DemoOOP\MyCompany\obj\Debug\MyCompany.exe
+C:\projekt\DemoOOP\MyCompany\obj\Debug\MyCompany.pdb
+C:\project\DemoOOP\MyCompany\bin\Debug\MyCompany.exe.config
+C:\project\DemoOOP\MyCompany\bin\Debug\MyCompany.exe
+C:\project\DemoOOP\MyCompany\bin\Debug\MyCompany.pdb
+C:\project\DemoOOP\MyCompany\obj\Debug\MyCompany.csproj.AssemblyReference.cache
+C:\project\DemoOOP\MyCompany\obj\Debug\MyCompany.csproj.SuggestedBindingRedirects.cache
+C:\project\DemoOOP\MyCompany\obj\Debug\MyCompany.csproj.CoreCompileInputs.cache
+C:\project\DemoOOP\MyCompany\obj\Debug\MyCompany.exe
+C:\project\DemoOOP\MyCompany\obj\Debug\MyCompany.pdb
